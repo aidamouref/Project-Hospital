@@ -1,6 +1,6 @@
 # PROJECT II: IMPLEMENTING A NEW HOSPITAL IN THE USA HEALTHCARE SYSTEM
 
-![hospital.jpg](attachment:hospital.jpg)
+![hospital.jpg](attachment:Images/hospital.jpg)
 
 ## INTRO
 
@@ -40,7 +40,7 @@ As a result, a market revision is needed in order to find the best conditions (g
 
 #### Connexion Schema
 
-![Diagram.jpg](attachment:Diagram.jpg)
+![Diagram.jpg](attachment:Images/Diagram.jpg)
 
 
 
